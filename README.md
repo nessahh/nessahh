@@ -17,7 +17,7 @@
  
 ![Badge IA](https://img.shields.io/badge/Étudiant%20en%20Ingénierie%20de%20l'IA-20BEFF?style=flat-square&logo=p…
  
-#### Je suis **Abdelilah Ourti**, un étudiant passionné et motivé, actuellement en deuxième année à l'**ENIAD** (École Nationale d'Intelligence Artificielle et du Digital) à Berkane, au Maroc.
+#### Je suis **NESSAH KAHINA**, un étudiant passionné et motivé, actuellement en deuxième année à l'**ENIAD** (École Nationale d'Intelligence Artificielle et du Digital) à Berkane, au Maroc.
  
 Je me spécialise en **Data Science**, **Machine Learning**, **Deep Learning** et **Vision par Ordinateur**. Je porte également un vif intérêt au **Traitement du Langage Naturel (NLP)** ainsi qu'aux **Grands Modèles de Langage (LLMs)**.
  
@@ -159,6 +159,7 @@ N'hésite pas à explorer mes projets et à me contacter pour toute opportunité
  
 ------------
 ## Analytique GitHub
+**NESSAH**
  
  
 <div align="center">
