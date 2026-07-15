@@ -137,12 +137,4 @@ mindmap
 **NESSAH**
  
  
-<div align="center">
-<!-- Animated Trophy Display -->
-<img src="https://github-profile-trophy.vercel.app/?username=Abdelilah04116&theme=nord&column=7&no-frame=true&margin-w=15&margin-h=15%22 alt="trophy">
-</div>
- 
-<div align="center">
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdelilah04116&theme=react-dark&bg_color=000428&color=ffffff&line=6a5acd&point=ffffff&area=true&hide_border=true%22 width="800">
-</div>
+
