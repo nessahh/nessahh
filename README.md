@@ -15,7 +15,6 @@
 ------------
 ##  Étudiant en Ingénierie de l'Intelligence Artificielle
  
-![Badge IA](https://img.shields.io/badge/Étudiant%20en%20Ingénierie%20de%20l'IA-20BEFF?style=flat-square&logo=p…
  
 #### Je suis **NESSAH KAHINA**, un étudiant passionné et motivé, actuellement en deuxième année à l'**ENIAD** (École Nationale d'Intelligence Artificielle et du Digital) à Berkane, au Maroc.
  
